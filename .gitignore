@@ -127,7 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-/.idea/MarvelOurs.iml
-/.idea/modules.xml
-/.idea/inspectionProfiles/profiles_settings.xml
-/.idea/vcs.xml
+
+#ide files
+.idea/
